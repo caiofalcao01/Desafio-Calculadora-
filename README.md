@@ -33,3 +33,7 @@ Siga os passos abaixo para testar a calculadora no seu computador:
 3. **Instale as dependências (recria a pasta `node_modules`)**:
    ```bash
    npm install
+
+4. **Execute o projeto com o comando**:
+   ```bash
+   npm run dev
